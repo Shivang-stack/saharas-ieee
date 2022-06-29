@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Sahasra</title>
-        <meta name="description" content="Created by Shivang yadav" />
+        <meta name="description" content="Created by IEEE AMCEC Design Team" />
         <link rel="icon" href="../public/assets/navLogo.png" />
       </Head>
     
