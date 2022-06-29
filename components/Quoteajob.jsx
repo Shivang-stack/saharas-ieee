@@ -10,15 +10,19 @@ const Quoteajob = () => {
         
         <div className='col-span-2 m-left'>
           <p className='uppercase text-xl tracking-widest text-[#faeebe]'>Quote A Job</p>
-          <h2 className='py-4'>What&#39;s </h2>
-          <p className='py-2 text-gray-300'>It&#39;s not your Normal College Fest</p>
+          <h2 className='py-4'>Overview </h2>
+          <p className='py-2 text-gray-300'></p>
           <p className='py-2 text-gray-300'>
-          content comes here
-          <br/>
+          IEEE AMCEC has come up with a great awe-inspiring opportunity for You! 
           </p>
           <p className='py-2 text-gray-300'>
-          content comes here
+          To Unlock your talent, Enhance your potential and build your Developmental skills by taking part in our Mock Interview and enhance your chances of getting hired.
           </p>
+          <h3>Coordinators:
+          <br/>Dipika Ray - 6366109327
+          <br/>Samuel Joseph - 6361581016
+          <br/>Pranali P - 9480923983
+          </h3>
           <button className='px-8 py-2 mt-4 mr-8'>
             <Link  href=''>
             <a>Register</a>

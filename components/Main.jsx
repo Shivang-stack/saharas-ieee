@@ -1,17 +1,18 @@
 import React from 'react';
 import Image from 'next/image';
-import poster from '../public/assets/poster.png';
+import poster from '../public/assets/Sahasrabg.png';
 
 
 const Main = () => {
   return (
     <div id='home' className=''>
-      <div className='w-full h-auto m-auto  rounded-xl flex items-center justify-center p-4 S'>     
+      <div className=''>     
           <Image
                 src={poster}
                 alt='/'
-                width='1100'
-                height='675'
+                width='3472'
+                height='1785'
+
               />
       </div>
     </div>

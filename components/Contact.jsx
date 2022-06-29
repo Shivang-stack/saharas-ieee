@@ -16,14 +16,14 @@ const Contact = () => {
             <div className='lg:p-4 h-full '>
               <div>
                 <h2 className='py-2'>Connect to our Coordinators</h2>
-                <p>Checkout out our <Link href='https://www.instagram.com/ieee_amcec'><a>Instagram</a></Link></p>
+                <p>Checkout out our <Link href='https://www.instagram.com/ieee_amcec'><a><strong>Instagram</strong></a></Link></p>
                 <p className='py-4'>
                   Feel free to reach out to us
                 </p>
                 <p>
                 Student Coordinators:
                 </p>
-                <p>Harshitha   : 1234567890 </p>
+                <p>Harshitha Reddy - 7349333989 </p>
               </div>
           
             </div>

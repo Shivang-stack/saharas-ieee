@@ -9,17 +9,17 @@ const Iplevent = () => {
       <div className='max-w-[1240px] m-auto md:grid grid-cols-3 gap-8'>
         <div className='col-span-2'>
           <p className='uppercase text-xl tracking-widest text-[#faeebe]'>IPL Mock Auction</p>
-          <h2 className='py-4'>What&#39;s </h2>
-          <p className='py-2 text-gray-300'>It&#39;s not your Normal College Fest</p>
+          <h2 className='py-4'>Overview </h2>
+          <p className='py-2 text-gray-300'>Registration for IPL MOCK AUCTION</p>
           <p className='py-2 text-gray-300'>
-          content comes here
-          <br/>
+          IEEE AMCEC is here to create a platform for the young minds and investors to showcase their creative and smart minds for an IPL MOCK AUCTION. This is a fun-technical event to encounter a hypothetical IPL AUCTION.
           </p>
-          <p className='py-2 text-gray-300'>
-          content comes here
-          </p>
+          <h3>Coordinators:
+          <br/>Smitha S - 96639 17442
+          <br/>Shashank G - 83105 66629
+          </h3>
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSeb2ggobE1O2ZRIbU9lw2YWBZXlWhahVLOd61RRh3PZP5_Z5g/viewform'>
             <a>Register</a>
             </Link>
           </button>

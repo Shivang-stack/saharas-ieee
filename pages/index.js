@@ -23,11 +23,11 @@ export default function Home() {
     </div>
     <About />
     <div className='event'>
-    <Animeevent />
+    <Iplevent/>
     <Ideatank/>
     <Codeofduty/>
     <Quoteajob/>
-    <Iplevent/>
+    <Animeevent />
     </div>
     
     <Contact />

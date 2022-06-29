@@ -9,17 +9,21 @@ const Codeofduty = () => {
       <div className='max-w-[1240px] m-auto md:grid grid-cols-3 gap-8'>
         <div className='col-span-2'>
           <p className='uppercase text-xl tracking-widest text-[#faeebe]'>Code of duty</p>
-          <h2 className='py-4'>What&#39;s </h2>
-          <p className='py-2 text-gray-300'>It&#39;s not your Normal College Fest</p>
+          <h2 className='py-4'>Overview </h2>
+          <p className='py-2 text-gray-300'>
+          IEEE AMCEC is all set to stimulate & rejuvenate you to come up with a 404-error-free code, this is a call for all the coders out there!
+          </p>
+          <h3>Coordinators:
+          <br/>Tarun Balaji K S - 8971884421
+          <br/>Harshitha Reddy -  7349333989
+          </h3>
+          {/* <br/>
+          
           <p className='py-2 text-gray-300'>
           content comes here
-          <br/>
-          </p>
-          <p className='py-2 text-gray-300'>
-          content comes here
-          </p>
+          </p> */}
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLSco48yYt_GEohhbLi6v9ZY1LUAcwyBXgbtoYa58rxwtgwJVww/viewform'>
             <a>Register</a>
             </Link>
           </button>
