@@ -41,7 +41,7 @@ const Contact = () => {
         </div>
         <div className='flex justify-center py-12 text-[#faeebe]'>
           
-        <a href='https://portfolio-nextjs-swart-kappa.vercel.app/'> &copy; Created by Shivang Yadav (CSE)</a>
+        <a href='https://portfolio-nextjs-swart-kappa.vercel.app/'> &copy; Created by IEEE AMCEC Design Team</a>
         </div>
       </div>
     </div>
