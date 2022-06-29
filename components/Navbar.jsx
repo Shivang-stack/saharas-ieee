@@ -109,14 +109,14 @@ const Navbar = () => {
               </Link>
               <div
                 onClick={handleNav}
-                className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer'
+                className='rounded-full shadow-lg shadow-gray-800 p-3 cursor-pointer'
               >
                 <AiOutlineClose />
               </div>
             </div>
             <div className='border-b border-gray-300 my-4'>
               <p className='w-[85%] md:w-[90%] py-4'>
-                IEEE AMCEC Welcomes you to be the part of <strong>&ldquo;Saharas-2k22&ldquo;</strong></p>
+                IEEE AMCEC Welcomes you <br/>to be the part of <br/><strong>&ldquo;Saharas-2k22&ldquo;</strong></p>
             </div>
           </div>
           <div className='py-4 flex flex-col'>
