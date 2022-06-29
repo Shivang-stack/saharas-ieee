@@ -24,7 +24,7 @@ const Animeevent = () => {
           <br/>Shariq - 7619114753
           </h3>
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://forms.gle/64moDFhV1NJ7jt9j7'>
             <a>Register</a>
             </Link>
           </button>

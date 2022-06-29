@@ -24,7 +24,7 @@ const Quoteajob = () => {
           <br/>Pranali P - 9480923983
           </h3>
           <button className='px-8 py-2 mt-4 mr-8'>
-            <Link  href=''>
+            <Link  href='https://docs.google.com/forms/d/e/1FAIpQLScb5HdofIh5l1yJ-M85nVzsPeaUdB4P6eEoNm4wnnqNXiM3IA/viewform?usp=sf_link'>
             <a>Register</a>
             </Link>
           </button>
