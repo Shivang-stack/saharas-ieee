@@ -16,7 +16,7 @@ const About = () => {
         <p className='uppercase text-xl tracking-widest text-[#faeebe]'>About</p>
          <h2 className='py-4'>SYMPOSIUM</h2>
          <p className='py-2 text-gray-200'>
-          IEEE Students' Technology Symposium is an 
+          IEEE Students Technology Symposium is an 
           annual event that is conducted by every IEEE 
           student branch. This version of our 
           symposium hosts professionally managed 
