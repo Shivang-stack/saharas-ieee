@@ -14,13 +14,20 @@ const About = () => {
         </div>
         <div className='col-span-2 m-left'>
         <p className='uppercase text-xl tracking-widest text-[#faeebe]'>About</p>
-         <h2 className='py-4'>content here</h2>
-         <p className='py-2 text-gray-200'>paras...</p>
+         <h2 className='py-4'>SYMPOSIUM</h2>
          <p className='py-2 text-gray-200'>
-         content comes here
-         </p>
-         <p className='py-2 text-gray-200'>
-         content comes here
+          IEEE Students' Technology Symposium is an 
+          annual event that is conducted by every IEEE 
+          student branch. This version of our 
+          symposium hosts professionally managed 
+          events consisting of oral and poster 
+          sessions showcasing original contributions 
+          from students and young professionals. 
+          Through this event, our student branch 
+          plans on achieving the goal to reach out to 
+          all the students who can use their creative 
+          and innovative minds in using the 
+          technology for the betterment of humanity.
          </p>
          {/* <p className='py-2 text-gray-300 underline cursor-pointer'>Check out some of my latest projects.</p> */}
        </div>
